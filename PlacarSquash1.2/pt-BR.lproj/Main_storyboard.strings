@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "2º Jogador"; ObjectID = "2fN-ju-2WM"; */
+"2fN-ju-2WM.text" = "2º Jogador";
+
+/* Class = "UITextField"; placeholder = "Quadra"; ObjectID = "4Aq-cH-qny"; */
+"4Aq-cH-qny.placeholder" = "Quadra";
+
+/* Class = "UILabel"; text = "2º"; ObjectID = "4HX-kG-sQO"; */
+"4HX-kG-sQO.text" = "2º";
+
+/* Class = "UITextField"; placeholder = "Hora"; ObjectID = "4b1-vi-7QS"; */
+"4b1-vi-7QS.placeholder" = "Hora";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "5Df-TE-Gy3"; */
+"5Df-TE-Gy3.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "STROKE"; ObjectID = "67f-31-WxC"; */
+"67f-31-WxC.normalTitle" = "STROKE";
+
+/* Class = "UIBarButtonItem"; title = "Súmula"; ObjectID = "6eE-hr-3fp"; */
+"6eE-hr-3fp.title" = "Súmula";
+
+/* Class = "UIButton"; normalTitle = "Foto"; ObjectID = "7W6-lx-UAV"; */
+"7W6-lx-UAV.normalTitle" = "Foto";
+
+/* Class = "UILabel"; text = "Timer"; ObjectID = "DXz-aF-YHL"; */
+"DXz-aF-YHL.text" = "Timer";
+
+/* Class = "UIBarButtonItem"; title = "Iniciar"; ObjectID = "GRT-Je-eb5"; */
+"GRT-Je-eb5.title" = "Iniciar";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "HEc-8P-jds"; */
+"HEc-8P-jds.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Reiniciar"; ObjectID = "JEH-1A-Jjz"; */
+"JEH-1A-Jjz.title" = "Reiniciar";
+
+/* Class = "UISegmentedControl"; KuB-dz-VS8.segmentTitles[0] = "M"; ObjectID = "KuB-dz-VS8"; */
+"KuB-dz-VS8.segmentTitles[0]" = "M";
+
+/* Class = "UISegmentedControl"; KuB-dz-VS8.segmentTitles[1] = "F"; ObjectID = "KuB-dz-VS8"; */
+"KuB-dz-VS8.segmentTitles[1]" = "F";
+
+/* Class = "UILabel"; text = "1º Jogador"; ObjectID = "L7e-nf-xNy"; */
+"L7e-nf-xNy.text" = "1º Jogador";
+
+/* Class = "UITextField"; placeholder = "Campeonato / Torneio"; ObjectID = "PBd-9W-YyC"; */
+"PBd-9W-YyC.placeholder" = "Campeonato / Torneio";
+
+/* Class = "UITextField"; placeholder = "2º Jogador"; ObjectID = "QO1-jJ-o3l"; */
+"QO1-jJ-o3l.placeholder" = "2º Jogador";
+
+/* Class = "UIButton"; normalTitle = "LET"; ObjectID = "Ryb-ro-S1e"; */
+"Ryb-ro-S1e.normalTitle" = "LET";
+
+/* Class = "UILabel"; text = "5º"; ObjectID = "SiF-Vc-ULw"; */
+"SiF-Vc-ULw.text" = "5º";
+
+/* Class = "UILabel"; text = "1º Game"; ObjectID = "TAv-Wg-zQd"; */
+"TAv-Wg-zQd.text" = "1º Game";
+
+/* Class = "UINavigationItem"; title = "Súmula"; ObjectID = "UHC-tf-11D"; */
+"UHC-tf-11D.title" = "Súmula";
+
+/* Class = "UISegmentedControl"; WRO-zi-Tcw.segmentTitles[0] = "3 Games"; ObjectID = "WRO-zi-Tcw"; */
+"WRO-zi-Tcw.segmentTitles[0]" = "3 Games";
+
+/* Class = "UISegmentedControl"; WRO-zi-Tcw.segmentTitles[1] = "5 Games"; ObjectID = "WRO-zi-Tcw"; */
+"WRO-zi-Tcw.segmentTitles[1]" = "5 Games";
+
+/* Class = "UITextField"; placeholder = "1º Jogador"; ObjectID = "Xtg-72-te3"; */
+"Xtg-72-te3.placeholder" = "1º Jogador";
+
+/* Class = "UIButton"; normalTitle = "Foto"; ObjectID = "ZRn-ZI-glf"; */
+"ZRn-ZI-glf.normalTitle" = "Foto";
+
+/* Class = "UITextField"; placeholder = "Data"; ObjectID = "aRh-wc-4qt"; */
+"aRh-wc-4qt.placeholder" = "Data";
+
+/* Class = "UIButton"; normalTitle = "Iniciar Agora"; ObjectID = "axW-MO-oCq"; */
+"axW-MO-oCq.normalTitle" = "Iniciar Agora";
+
+/* Class = "UINavigationItem"; title = "Placar Squash"; ObjectID = "cre-Yx-o5I"; */
+"cre-Yx-o5I.title" = "Placar Squash";
+
+/* Class = "UILabel"; text = "Categoria"; ObjectID = "fGl-6k-ohi"; */
+"fGl-6k-ohi.text" = "Categoria";
+
+/* Class = "UITextField"; placeholder = "Nome do Árbitro"; ObjectID = "hO3-0V-0bR"; */
+"hO3-0V-0bR.placeholder" = "Nome do Árbitro";
+
+/* Class = "UIBarButtonItem"; title = "Voltar"; ObjectID = "ipO-HZ-STz"; */
+"ipO-HZ-STz.title" = "Voltar";
+
+/* Class = "UILabel"; text = "1º Jogador"; ObjectID = "l7E-We-aaK"; */
+"l7E-We-aaK.text" = "1º Jogador";
+
+/* Class = "UITextField"; placeholder = "Marcador"; ObjectID = "lzT-BX-cvg"; */
+"lzT-BX-cvg.placeholder" = "Marcador";
+
+/* Class = "UITextField"; placeholder = "Categoria"; ObjectID = "nge-Ox-vCh"; */
+"nge-Ox-vCh.placeholder" = "Categoria";
+
+/* Class = "UILabel"; text = "1º"; ObjectID = "ppN-Tf-tNd"; */
+"ppN-Tf-tNd.text" = "1º";
+
+/* Class = "UINavigationItem"; title = "Jogo"; ObjectID = "qoJ-Hc-fU5"; */
+"qoJ-Hc-fU5.title" = "Jogo";
+
+/* Class = "UILabel"; text = "2º Jogador"; ObjectID = "s7H-Rx-uPj"; */
+"s7H-Rx-uPj.text" = "2º Jogador";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "u1d-gF-qw7"; */
+"u1d-gF-qw7.text" = "0";
+
+/* Class = "UILabel"; text = "4º"; ObjectID = "wPa-Vc-CO0"; */
+"wPa-Vc-CO0.text" = "4º";
+
+/* Class = "UITextField"; placeholder = "Rodada"; ObjectID = "wcY-Yi-IQT"; */
+"wcY-Yi-IQT.placeholder" = "Rodada";
+
+/* Class = "UILabel"; text = "3º"; ObjectID = "xRm-yc-BI6"; */
+"xRm-yc-BI6.text" = "3º";
+
+/* Class = "UIBarButtonItem"; title = "Voltar"; ObjectID = "xix-6a-M0T"; */
+"xix-6a-M0T.title" = "Voltar";
